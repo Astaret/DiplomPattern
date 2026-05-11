@@ -1,0 +1,11 @@
+product_id,name,category,ingredients,cost,price,seasonal_flag,active_status,release_date
+101,Croissant,Bread,Flour,Butter,Eggs,2.5,5.99,0,1,2022-01-01
+102,Baguette,Bread,Flour,Water,Yeast,1.2,3.49,0,1,2022-02-01
+103,Tart,Tarts,Flour,Fruit,Sugar,3.0,4.99,1,1,2022-03-01
+104,Eclair,Bread,Cream,Chocolate,Flour,2.8,6.49,0,1,2022-04-01
+105,Bread Roll,Bread,Flour,Yeast,Salt,0.8,2.99,0,1,2022-05-01
+106,Apple Pie,Tarts,Apples,Flour,Sugar,3.5,7.99,1,1,2022-06-01
+107,Macaron,Bread,Almonds,Sugar,Eggs,4.0,8.99,0,1,2022-07-01
+108,Rye Bread,Bread,Rye Flour,Water,Yeast,1.5,4.49,0,1,2022-08-01
+109,Strawberry Tart,Tarts,Strawberries,Flour,Cream,3.2,5.49,1,1,2022-09-01
+110,Donut,Bread,Flour,Sugar,Oil,1.0,2.49,0,1,2022-10-01
