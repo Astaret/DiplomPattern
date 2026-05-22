@@ -1,0 +1,13 @@
+customer_id,name,age,gender,zip_code,email,phone_number,membership_status,loyalty_level,date_joined,last_purchase_date,total_spend,avg_order_value,frequency,preferred_category,churn_status,promotion_id
+1001,Alice,25,F,69001,alice@email.com,988989889,Active,Silver,2022-01-01 13:14:32,2023-12-31 16:19:23,150.5,25.08,6,Выпечка,0,P001
+1002,Bob,35,M,69002,bob@email.com,987654321,Active,Gold,2022-02-01 16:45:09,2023-11-15 09:55:27,300.0,50.0,6,Хлеб,0,P002
+1003,Charlie,45,M,69003,charlie@email.com,1122334455,Inactive,Basic,2022-03-01 14:17:16,2023-05-10 09:31:06,100.0,20.0,5,Торты,1,0
+1004,Dave,28,M,69004,dave@email.com,2233445566,Active,Silver,2022-04-01 14:15:38,2023-12-20 15:29:55,200.75,33.46,6,Выпечка,0,P003
+1005,Eva,40,F,69005,eva@email.com,3344556677,Active,Gold,2022-05-01 14:32:44,2023-10-05 15:04:18,450.0,75.0,6,Хлеб,0,P004
+1006,Frank,32,M,69006,frank@email.com,4455667788,Inactive,Basic,2022-06-01 15:08:41,2023-06-15 13:23:46,120.0,24.0,5,Хлеб,1,0
+1007,Grace,22,F,69007,grace@email.com,5566778899,Active,Silver,2022-07-01 10:11:34,2023-12-10 15:38:16,180.25,30.04,6,Выпечка,0,P005
+1008,Hank,50,M,69008,hank@email.com,6677889900,Active,Gold,2022-08-01 15:09:03,2023-09-25 11:35:32,500.0,83.33,6,Хлеб,0,P006
+1009,Ivy,29,F,69009,ivy@email.com,7788990011,Inactive,Basic,2022-09-01 09:56:40,2023-07-30 13:08:38,90.0,18.0,5,Торты,1,0
+1010,Jack,37,M,69010,jack@email.com,8899001122,Active,Silver,2022-10-01 12:38:58,2023-12-05 15:07:41,250.5,41.75,6,Выпечка,0,P007
+1011,Kate,26,F,69011,kate@email.com,9900112233,Active,Gold,2022-11-01 09:59:52,2023-11-01 16:06:14,350.0,58.33,6,Хлеб,0,P008
+1012,Leo,48,M,69012,leo@email.com,11223344,Inactive,Basic,2022-12-01 13:21:55,2023-08-20 09:30:26,110.0,22.0,5,Торты,1,0
